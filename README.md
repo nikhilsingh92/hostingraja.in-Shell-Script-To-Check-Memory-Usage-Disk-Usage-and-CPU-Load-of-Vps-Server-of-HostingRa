@@ -62,4 +62,4 @@ Restore a single database from dump of all the databases:
 mysql --one-database database_name < all_databases.sql
 
 
-For more details visit us at https://www.hostingraja.in/
+For more details visit us at hostingraja.in
